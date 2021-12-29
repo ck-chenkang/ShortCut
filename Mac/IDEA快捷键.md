@@ -9,6 +9,6 @@
 | 快速生成get、 set、 构造函数、 tostring | Cmd + N             |      |
 | 智能补齐                                | Opt + Enter         |      |
 | 快速启动当前函数                        | Shift + Control + R |      |
-|                                         |                     |      |
+| 快速打开                                | 连按shift两次       |      |
 |                                         |                     |      |
 
