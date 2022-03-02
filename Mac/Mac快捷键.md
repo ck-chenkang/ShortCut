@@ -50,4 +50,5 @@
 | 访达下搜索         | Opt + Cmd + Space |            |
 | 新建文件夹         | Shift + Cmd + N   |            |
 | 重命名文件，文件夹 | Enter             | 访达下适用 |
+| 文件剪切           | opt + cmd + V     |            |
 
