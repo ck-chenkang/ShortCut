@@ -30,7 +30,7 @@
 | 活动文件切换              | Ctrl + tab                      |                                      |
 | 转到文件                  | Ctrl + Shift + T                |                                      |
 | xmal   <--->  xmal.cs切换 | F7    <--->   Shift + F7        |                                      |
-|                           |                                 |                                      |
+| 新建项                    | Ctrl + Shift + A                |                                      |
 |                           |                                 |                                      |
 |                           |                                 |                                      |
 |                           |                                 |                                      |
