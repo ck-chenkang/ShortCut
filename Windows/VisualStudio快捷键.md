@@ -32,7 +32,7 @@
 | xmal   <--->  xmal.cs切换 | F7    <--->   Shift + F7        |                                      |
 | 新建项                    | Ctrl + Shift + A                |                                      |
 | 生成构造函数              | 输入ctor，按TAB                 |                                      |
-|                           |                                 |                                      |
+| 快速重命名                | 连按两次Ctrl + R                |                                      |
 |                           |                                 |                                      |
 |                           |                                 |                                      |
 |                           |                                 |                                      |
